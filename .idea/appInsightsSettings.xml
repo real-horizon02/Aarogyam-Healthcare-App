@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AppInsightsSettings">
+    <option name="selectedTabId" value="Firebase Crashlytics" />
+    <option name="tabSettings">
+      <map>
+        <entry key="Firebase Crashlytics">
+          <value>
+            <InsightsFilterSettings>
+              <option name="connection">
+                <ConnectionSetting>
+                  <option name="appId" value="com.example.health_medicare_application" />
+                  <option name="mobileSdkAppId" value="1:99338467384:android:647ece38fb2e3d8edb4ecd" />
+                  <option name="projectId" value="health-medicare-application" />
+                  <option name="projectNumber" value="99338467384" />
+                </ConnectionSetting>
+              </option>
+              <option name="signal" value="SIGNAL_FRESH" />
+              <option name="timeIntervalDays" value="THIRTY_DAYS" />
+              <option name="visibilityType" value="ALL" />
+            </InsightsFilterSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
